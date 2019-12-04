@@ -50,7 +50,7 @@ Expand the **Additional Information** and enter the following in Environment Var
 **Buildspec:**
 
 - Build Specification: Select **Use a buildspec file** - *We are going to provide CodeBuild with a buildspec file*
-- Buildspec name: Enter `buildspec_dev.yml` - *we'll be using the same repo, but different buildspecs*
+- Buildspec name: Enter `./buildspec_dev.yml` - *we'll be using the same repo, but different buildspecs*
 
 **Artifacts:**
 
